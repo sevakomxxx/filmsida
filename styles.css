@@ -1,9 +1,18 @@
 body {
-    background-color: silver
+    background-color: black
 }
 
 
+h1,
+p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: orangered;
+}
 
 p {
-    color: black;
+    font-size: 1.2rem;
+}
+
+h1 {
+    font-size: 1.7rem;
 }
